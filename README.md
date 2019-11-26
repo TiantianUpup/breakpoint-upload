@@ -1,8 +1,7 @@
-# Getting Started
+# breakpoint-upload
 
-### Reference Documentation
-For further reference, please consider the following sections:
+### breakpoint-upload介绍
+breakpoint-upload项目是基于SpringBoot框架的文件断点续传实现方案
 
-* [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
-* [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/2.2.1.RELEASE/maven-plugin/)
+### 实现思路
 
